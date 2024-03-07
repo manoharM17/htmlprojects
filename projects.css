@@ -1,0 +1,13 @@
+*
+h1
+{
+    text-align: center;
+}
+table,tr,td
+{
+    border: 1px solid black;
+    height: 100px;
+    width: 600px;
+    text-align: center;
+    margin: 100px;
+}

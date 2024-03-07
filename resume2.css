@@ -1,0 +1,33 @@
+*
+h1
+{
+    text-align: center;
+    margin-left: 120px;
+}
+ img
+{
+    height: 150px;
+    width: 150px;
+    float: right;
+    margin-right: 10px;
+}
+.image
+{
+     border: 1px solid black;
+     margin-top: -60px;
+     margin-right: 10px;
+}
+h2
+{
+ margin-right: 20px;
+}
+.cats
+{
+    border: 2px solid black;
+    padding: 2%;
+}
+.boots
+{
+    border: 2px solid black;
+    padding: 2%;
+}

@@ -1,0 +1,70 @@
+.logo
+{
+    clip-path: circle(150px);
+    float: right;
+
+}
+img
+{
+    border-radius: 360px ;
+}
+h2
+{
+    
+    font-size: 2rem;
+    margin-left:20px;
+color: gold;
+   
+}
+h3
+{
+    font-size: 2rem;
+    margin-left: 10px;
+}
+p{
+    margin-left: 10px;
+}
+.menu ul li
+{
+    display: inline-block;
+    margin: 10px ;
+    height: 20px;
+    background-color: gold;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    transition: all 1s ease;
+    transform: scale(1.05)
+}
+.menu
+{
+    position: fixed;
+
+
+}
+div
+{
+    color: white;
+    background-color: black;
+}
+.right
+{
+    margin-left: 20px;
+
+}
+button
+{
+height: 50px;
+width: 100px;
+border-radius: 10px;
+border: 3px solid gold;
+}
+#ABOUT
+{
+    background-color: black;
+}
+#cat
+{
+    border-radius: 10px;
+    border: 3px solid gold;
+}
